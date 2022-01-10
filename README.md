@@ -18,7 +18,7 @@ Purpose: Estimating the CDR (scale of Dementia) using relevant features in the M
 Analysis Flow 
 ``` 
 Drop all the rows with undefined or null values
-Removing columns
+Removing columns (unnecessary for our analysis)
 
 Imputation using simpleImputer
 -Fill in the missing values in the "SES" columns with the most occuring data element.
